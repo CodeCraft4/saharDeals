@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/saharDeals/static/css/main.f44c9107.css",
+    "main.js": "/saharDeals/static/js/main.c262a479.js",
+    "index.html": "/saharDeals/index.html",
+    "main.f44c9107.css.map": "/saharDeals/static/css/main.f44c9107.css.map",
+    "main.c262a479.js.map": "/saharDeals/static/js/main.c262a479.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f44c9107.css",
+    "static/js/main.c262a479.js"
+  ]
+}
